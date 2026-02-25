@@ -90,8 +90,8 @@ I’ve led multi‑million‑dollar cloud and datacenter programs, built offshor
 ## **Network Administrator — ASHTECH INFOTECH PVT LTD | Mumbai**
 **01/07/2005 – 31/12/2009**
 
-Design and maintain scalable network solutions for high performance.  
-Align network architectures with business needs for future growth.  
+- Design and maintain scalable network solutions for high performance.  
+- Align network architectures with business needs for future growth.  
 - Oversee LAN, WAN, and wireless configurations for optimal performanceand security.  
 - Troubleshoot network issues involving routers, switches, and firewalls.  
 - Assess network performance and identify opportunities for optimization.  
@@ -143,8 +143,8 @@ Manage contracts and warranties for networking equipment.
 - Datacenter Migration  
 - Hybrid Cloud Architecture  
 
-### **Key Projects Delivered | Achievements**
-
+### **Explore My Key Project Experience  (https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPERIENCE)**
+- Led the setup of ODCs in Pune, Mumbai, and Chennai, covering infrastructure readiness, access provisioning, and delivery onboarding
 - Network Optimization Project, Proxy Upgrade  
 - HCC United States: Datacenter Optimization, Cloud Migration  
 - HCD United States: Datacenter Optimization, Cloud Migration  
