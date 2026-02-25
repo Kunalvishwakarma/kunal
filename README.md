@@ -38,7 +38,7 @@ I’ve led multi‑million‑dollar cloud and datacenter programs, built offshor
 
 ## 🏢 Professional Experience
 
-### **Technical Program Manager – Cloud & Security**  
+### **Project Manager**  
 **Cognizant Oil & Gas Consulting Services Norway AS**  
 *2019 – Present*
 
