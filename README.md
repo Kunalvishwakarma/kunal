@@ -5,34 +5,14 @@
 
 My Projects : https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPERIENCE
 
-### **Technical Project Manager | Datacenter SME | Cloud & Infrastructure Architect | Multimodal AI Platform Practitioner  | Open-source intelligence (OSINT)**
-
-20+ years of experience across regulated industries, I specialize in **cloud migration programs, secure infrastructure delivery, and technical project leadership**. As part of my routine work as a Technical Project Manager and Infrastructure Architect, I use multimodal AI platforms to support:
-
-• Project governance (RAID logs, risk analysis, impact assessments)
-• Cloud architecture validation (Azure, hybrid cloud, security models)
-• Automation of documentation, runbooks, and technical summaries
-• Stakeholder communication and decision-support insights
-• Process optimization across DevOps, ITSM, and cloud migration programs
-
-AI enhances my ability to deliver faster, maintain accuracy, and ensure consistent quality across complex technical projects.
-
 ---
 
-## 🚀 About Me
+## 🚀**Cloud & Infrastructure Architect | Datacenter SME | Technical Program Manager | Multimodal AI Platform Practitioner | OSINT Researcher**
 
-I’m a Technical Project Manager and Infrastructure Architect with deep expertise in: 
+I have 20+ years of experience across regulated industries, specializing in cloud migration, secure infrastructure delivery, and enterprise architecture.
+I’ve led multi‑million‑dollar cloud and datacenter transformation programs, built offshore delivery centers, and delivered large‑scale modernization initiatives across Europe and APAC. My work blends deep infrastructure expertise with AI‑driven automation, enabling organizations to move toward intelligent, scalable, and future‑ready platforms.
 
-- Utilising MultiModel AI plateform, 1min.AI and Chatplayground.AI
-- Azure Cloud (IaaS, Security, Governance)  
-- Datacenter Migration & Hybrid Cloud  
-- IT Infrastructure Architecture  
-- Cybersecurity & Compliance  
-- ITSM, Service Transition, and Operations  
-- Vendor & Stakeholder Management  
-- Program Governance and Delivery Leadership  
 
-I’ve led multi‑million‑dollar cloud and datacenter programs, built offshore delivery centers, and driven transformation initiatives across Europe and APAC.
 
 ---
 
@@ -59,6 +39,16 @@ I’ve led multi‑million‑dollar cloud and datacenter programs, built offshor
 - Managed F5, Bluecoat, Infoblox, Linux, Tumbleweed, Fix‑Gateways.  
 - Directed a 20‑member team supporting US/EMEA/APAC.  
 - Handled 500–1000 daily L1/L2 support interactions.
+
+---
+
+### **Technical Consultant**  
+**Einfotek | Pune**  
+*2011 – 2012*
+
+- Web Infrastructure Lead for Banking Domain.
+- Transition Lead for Barclays Capital India
+- SME for Bluecoat, BIG-IP/F5,Tumbleweed,Infoblox and Fixgateway
 
 ---
 
@@ -180,10 +170,11 @@ Manage contracts and warranties for networking equipment.
 - Cybersecurity & Compliance
 
 ### **Tools**
-- Azure DevOps  
+- Azure DevOps Board
 - Smartsheet  
 - Microsoft Project  
-- Asana  
+- Asana
+- Microsoft Visio
 
 ---
 
