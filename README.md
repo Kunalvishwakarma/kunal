@@ -7,7 +7,7 @@ My Projects : https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPER
 
 ---
 
-## 🚀**Cloud & Infrastructure Architect | Datacenter SME | Technical Program Manager | Multimodal AI Platform Practitioner | OSINT Researcher**
+## 🚀**Infrastructure Architect | Datacenter SME | Technical Project Manager | Multimodal AI Platform Practitioner | OSINT Researcher**
 
 I have 20+ years of experience across regulated industries, specializing in cloud migration, secure infrastructure delivery, and enterprise architecture.
 I’ve led multi‑million‑dollar cloud and datacenter transformation programs, built offshore delivery centers, and delivered large‑scale modernization initiatives across Europe and APAC. My work blends deep infrastructure expertise with AI‑driven automation, enabling organizations to move toward intelligent, scalable, and future‑ready platforms.
