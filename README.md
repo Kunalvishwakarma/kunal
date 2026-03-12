@@ -12,7 +12,15 @@ My Projects : https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPER
 I have 20+ years of experience across regulated industries, specializing in cloud migration, secure infrastructure delivery, and enterprise architecture.
 I’ve led multi‑million‑dollar cloud and datacenter transformation programs, built offshore delivery centers, and delivered large‑scale modernization initiatives across Europe and APAC. My work blends deep infrastructure expertise with AI‑driven automation, enabling organizations to move toward intelligent, scalable, and future‑ready platforms.
 
+---
 
+## 🏅 Appreciation & Awards
+
+- 🏆 **Best Performer – Barclays Capital**
+- 💡 **Best Innovation – SaiTech Shirdi Temple**
+- 🥇 **GEM Award – Aker Solutions**
+- 🌟 **Multiple Client Appreciations**
+- 🚀 Recognized for Cloud, Datacenter, Security & Network Transformation Projects
 
 ---
 
@@ -194,18 +202,6 @@ Manage contracts and warranties for networking equipment.
 - BICSI Datacenter Design & Infrastructure  
 
 ---
-
-## 🏅 Appreciation & Awards
-
-- 🏆 **Best Performer – Barclays Capital**
-- 💡 **Best Innovation – SaiTech Shirdi Temple**
-- 🥇 **GEM Award – Aker Solutions**
-- 🌟 **Multiple Client Appreciations**
-- 🚀 Recognized for Cloud, Datacenter, Security & Network Transformation Projects
-
-
----
-
 
 ## 📫 Let’s Connect
 
