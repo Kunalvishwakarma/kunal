@@ -3,8 +3,6 @@
   Email : github.ablaze588@passinbox.com
 🔗[LinkedIn](https://www.linkedin.com/in/kunalkv)
 
-My Projects : https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPERIENCE
-
 ---
 
 ## 🚀**Infrastructure Architect | Datacenter SME | Technical Project Manager | Multimodal AI Platform Practitioner | OSINT Researcher**
@@ -20,11 +18,14 @@ I’ve led multi‑million‑dollar cloud and datacenter transformation programs
 - 💡 **Best Innovation – SaiTech Shirdi Temple**
 - 🥇 **GEM Award – Aker Solutions**
 - 🌟 **Multiple Client Appreciations**
-- 🚀 Recognized for Cloud, Datacenter, Security & Network Transformation Projects
+- 🚀 **Recognized for Cloud, Datacenter, Security & Network Transformation Projects**
 
 ---
 
 ## 🏢 Professional Experience
+
+My Key Projects : https://github.com/Kunalvishwakarma/Profile/wiki/KEY-PROJECT-EXPERIENCE
+
 
 ### **Project Manager**  
 **Cognizant Oil & Gas Consulting Services Norway AS**  
