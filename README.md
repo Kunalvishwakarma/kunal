@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Kunal Vishwakarma**
 📍 Oslo, Norway, 
-  Email : github.ablaze588@passinbox.com
+  Email : vkunal@gmail.com 
 🔗[LinkedIn](https://www.linkedin.com/in/kunalkv)
 
 ---
